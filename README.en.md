@@ -28,7 +28,7 @@ I'm an **AI-focused product engineer** who builds things end to end: the idea, t
 
 I'm comfortable across the stack: **TypeScript, Rust, Python, Go and C++**; **Electron, SolidJS and Bun** day to day; **local models (GGUF / llama.cpp)**, **MCP** and interface design. If something has to be fast, cross-platform and offline, that's my territory.
 
->.Local-first isn't a trend: if your tool needs the internet to be useful, it isn't yours.
+> **Local-first** isn't a trend: if your tool needs the internet to be useful, it isn't yours.
 
 ## What I work on
 
@@ -165,5 +165,5 @@ I'm comfortable across the stack: **TypeScript, Rust, Python, Go and C++**; **El
 ---
 
 <div align="center">
-  <sub>Built with <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f525.png" width="14" alt="fire"> by <b>Dreftian</b></sub>
+  <sub>Designed and built by <a href="https://github.com/Dreftian">Dreftian</a> · AI Product Engineer</sub>
 </div>

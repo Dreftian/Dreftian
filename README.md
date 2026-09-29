@@ -28,7 +28,7 @@ Soy **ingeniero de producto enfocado en IA** y constructor de cosas de principio
 
 Me muevo cómodo en todo el stack: **TypeScript, Rust, Python, Go y C++**; **Electron, SolidJS y Bun** en el día a día; **modelos locales (GGUF / llama.cpp)**, **MCP** y diseño de interfaces. Si algo necesita ser rápido, multiplataforma y offline, es mi terreno.
 
->.Local-first no es una moda: si tu herramienta necesita internet para ser útil, no es tuya.
+> **Local-first** no es una moda: si tu herramienta necesita internet para ser útil, no es tuya.
 
 ## En qué trabajo
 
@@ -141,7 +141,7 @@ Me muevo cómodo en todo el stack: **TypeScript, Rust, Python, Go y C++**; **Ele
     <img src="https://raw.githubusercontent.com/Dreftian/Dreftian/dist/github-contribution-grid-snake.svg" alt="Dreftian contribution graph" width="82%">
   </picture>
 
-  <sub>Panel generado desde la API de GitHub por <a href="scripts/generate-stats.py">scripts/generate-stats.py</a> ·Contribution graph por Platane/snk</sub>
+  <sub>Panel generado desde la API de GitHub por <a href="scripts/generate-stats.py">scripts/generate-stats.py</a> · Contribution graph por Platane/snk</sub>
 
 </div>
 
@@ -165,5 +165,5 @@ Me muevo cómodo en todo el stack: **TypeScript, Rust, Python, Go y C++**; **Ele
 ---
 
 <div align="center">
-  <sub>Hecho con <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/72x72/1f525.png" width="14" alt="fuego"> por <b>Dreftian</b></sub>
+  <sub>Diseñado y construido por <a href="https://github.com/Dreftian">Dreftian</a> · AI Product Engineer</sub>
 </div>
