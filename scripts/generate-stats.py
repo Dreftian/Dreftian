@@ -188,7 +188,7 @@ def render(stats: dict) -> str:
         tiles_svg.append(
             f'<g transform="translate({x},24)">'
             f'<rect width="{tile_w}" height="118" rx="14" fill="#12121c" stroke="#ffffff" stroke-opacity="0.08"/>'
-            f'<rect width="3" height="118" rx="1.5" fill="url(#accent)"/>'
+            f'<rect width="3" height="118" rx="1.5" fill="url(#accent)" class="accent" style="animation-delay:{index * 0.7:.1f}s"/>'
             f'<text x="22" y="58" class="num">{esc(value)}</text>'
             f'<text x="22" y="82" class="label">{esc(label)}</text>'
             f'<text x="22" y="100" class="sub">{esc(sub)}</text>'
@@ -216,6 +216,9 @@ def render(stats: dict) -> str:
       .section {{ font-size: 12px; font-weight: 700; letter-spacing: 2px; fill: #8b8ba7; }}
       .lang {{ font-size: 13px; fill: #c9c9d6; }}
       .pct {{ font-size: 12px; fill: #8b8ba7; text-anchor: end; }}
+      .accent {{ animation: breathe 6s ease-in-out infinite; }}
+      @keyframes breathe {{ 0%, 100% {{ opacity: 0.5; }} 50% {{ opacity: 1; }} }}
+      @media (prefers-reduced-motion: reduce) {{ .accent {{ animation: none; }} }}
     </style>
   </defs>
 

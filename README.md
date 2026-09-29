@@ -16,6 +16,7 @@
     <a href="https://github.com/Dreftian"><img src="https://img.shields.io/github/followers/Dreftian?label=Followers&amp;style=flat-square&amp;color=38bdf8&amp;logo=github&amp;logoColor=white" alt="Seguidores"></a>
     <img src="https://img.shields.io/github/contributions/Dreftian?label=Contribuciones&amp;style=flat-square&amp;color=22c55e" alt="Contribuciones">
     <a href="https://steamcommunity.com/id/Dreftian/"><img src="https://img.shields.io/badge/Steam-Dreftian-1b2838?style=flat-square&amp;logo=steam&amp;logoColor=white" alt="Steam"></a>
+    <a href="https://github.com/Dreftian"><img src="https://komarev.com/ghpvc/?username=Dreftian&amp;label=Visitas&amp;color=a855f7" alt="Visitas al perfil"></a>
     <img src="https://img.shields.io/badge/Desde-2023-f97316?style=flat-square&amp;labelColor=0a0a12" alt="En GitHub desde 2023">
   </p>
 
@@ -23,7 +24,7 @@
 
 ---
 
-## Hola, soy Dangelo Vilchez 👋
+## 👋 Hola, soy Dangelo Vilchez
 
 Soy **ingeniero de producto enfocado en IA** y constructor de cosas de principio a fin: la idea, el diseño, el código, los releases firmados y la distribución. Hoy eso significa **agentes de programación local-first**, **apps de escritorio multiplataforma** y **plataformas web** que tienen que verse bien tanto como funcionar bien.
 
@@ -31,7 +32,7 @@ Me muevo cómodo en todo el stack: **TypeScript, Rust, Python, Go y C++**; **Ele
 
 > **Local-first** no es una moda: si tu herramienta necesita internet para ser útil, no es tuya.
 
-## En qué trabajo
+## 🧠 En qué trabajo
 
 <table>
   <tr>
@@ -46,7 +47,7 @@ Me muevo cómodo en todo el stack: **TypeScript, Rust, Python, Go y C++**; **Ele
   </tr>
 </table>
 
-## Proyectos destacados
+## 🚀 Proyectos destacados
 
 <table>
   <tr>
@@ -85,54 +86,66 @@ Me muevo cómodo en todo el stack: **TypeScript, Rust, Python, Go y C++**; **Ele
 | **[youtube-4k-releases](https://github.com/Dreftian/youtube-4k-releases)** | Canal de releases firmados para Windows, Linux y macOS. |
 | **[youtube-4k-web](https://github.com/Dreftian/youtube-4k-web)** | El sitio de distribución, estático y sin build. |
 
-## Stack
+## 🧰 Stack
 
 <table>
-  <tr><td align="left" valign="middle"><b>Lenguajes</b></td>
+  <tr><td align="left" valign="middle" width="160"><b>💻 Lenguajes</b></td>
   <td>
-    <img src="https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&amp;logo=typescript&amp;logoColor=white" alt="TypeScript">
-    <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&amp;logo=rust&amp;logoColor=white" alt="Rust">
-    <img src="https://img.shields.io/badge/Python-3776ab?style=flat-square&amp;logo=python&amp;logoColor=white" alt="Python">
-    <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&amp;logo=go&amp;logoColor=white" alt="Go">
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&amp;logo=cplusplus&amp;logoColor=white" alt="C++">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;logo=javascript&amp;logoColor=black" alt="JavaScript">
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&amp;logo=html5&amp;logoColor=white" alt="HTML">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="26" height="26" alt="TypeScript">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="26" height="26" alt="Rust">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="26" height="26" alt="Python">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="26" height="26" alt="Go">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="26" height="26" alt="C++">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="26" height="26" alt="JavaScript">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="26" height="26" alt="HTML">
   </td></tr>
-  <tr><td align="left" valign="middle"><b>Frontend</b></td>
+  <tr><td align="left" valign="middle"><b>🎨 Frontend</b></td>
   <td>
-    <img src="https://img.shields.io/badge/SolidJS-2C4F7C?style=flat-square&amp;logo=solid&amp;logoColor=white" alt="SolidJS">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&amp;logo=react&amp;logoColor=black" alt="React">
-    <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&amp;logo=vite&amp;logoColor=white" alt="Vite">
-    <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&amp;logo=tailwindcss&amp;logoColor=white" alt="Tailwind">
-    <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&amp;logo=electron&amp;logoColor=white" alt="Electron">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidjs/solidjs-original.svg" width="26" height="26" alt="SolidJS">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="26" height="26" alt="React">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="26" height="26" alt="Vite">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="26" height="26" alt="Tailwind">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" width="26" height="26" alt="Electron">
   </td></tr>
-  <tr><td align="left" valign="middle"><b>Backend &amp; runtime</b></td>
+  <tr><td align="left" valign="middle"><b>⚙️ Backend</b></td>
   <td>
-    <img src="https://img.shields.io/badge/Bun-f9f1e1?style=flat-square&amp;logo=bun&amp;logoColor=black" alt="Bun">
-    <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js">
-    <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&amp;logo=sqlite&amp;logoColor=white" alt="SQLite">
-    <img src="https://img.shields.io/badge/Turborepo-7C3AED?style=flat-square&amp;logo=turborepo&amp;logoColor=white" alt="Turborepo">
-    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bun/bun-original.svg" width="26" height="26" alt="Bun">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="26" height="26" alt="Node.js">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="26" height="26" alt="SQLite">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="26" height="26" alt="PostgreSQL">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tauri/tauri-original.svg" width="26" height="26" alt="Tauri">
   </td></tr>
-  <tr><td align="left" valign="middle"><b>IA</b></td>
+  <tr><td align="left" valign="middle"><b>🧠 IA</b></td>
   <td>
     <img src="https://img.shields.io/badge/llama.cpp-8B5CF6?style=flat-square&amp;logo=meta&amp;logoColor=white" alt="llama.cpp">
     <img src="https://img.shields.io/badge/GGUF-7C3AED?style=flat-square" alt="GGUF">
     <img src="https://img.shields.io/badge/MCP-111827?style=flat-square" alt="MCP">
-    <img src="https://img.shields.io/badge/LLM-Local-First-22C55E?style=flat-square&amp;labelColor=0a0a12" alt="Local-first">
+    <img src="https://img.shields.io/badge/Local-First-22C55E?style=flat-square&amp;labelColor=0a0a12" alt="Local-first">
   </td></tr>
-  <tr><td align="left" valign="middle"><b>Tooling</b></td>
+  <tr><td align="left" valign="middle"><b>🛠️ Tooling</b></td>
   <td>
-    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions">
-    <img src="https://img.shields.io/badge/Homebrew-FBB040?style=flat-square&amp;logo=homebrew&amp;logoColor=black" alt="Homebrew">
-    <img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&amp;logo=npm&amp;logoColor=white" alt="npm">
-    <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&amp;logo=vercel&amp;logoColor=white" alt="Vercel">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&amp;logo=docker&amp;logoColor=white" alt="Docker">
-    <img src="https://img.shields.io/badge/Obsidian-7C3AED?style=flat-square" alt="Obsidian">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="26" height="26" alt="GitHub Actions">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/homebrew/homebrew-original.svg" width="26" height="26" alt="Homebrew">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original.svg" width="26" height="26" alt="npm">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="26" height="26" alt="Vercel">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="26" height="26" alt="Docker">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" width="26" height="26" alt="Astro">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="26" height="26" alt="Lua">
   </td></tr>
 </table>
 
-## En números
+<div align="center">
+  <img src="assets/divider.svg" alt="" width="100%">
+</div>
+
+## 💻 Consola
+
+<div align="center">
+  <img src="assets/terminal.svg" alt="Demostración de los proyectos de Dreftian" width="100%">
+  <sub>Consola de demostración: así se ven las herramientas en uso.</sub>
+</div>
+
+## 📊 En números
 
 <div align="center">
 
@@ -150,14 +163,14 @@ Me muevo cómodo en todo el stack: **TypeScript, Rust, Python, Go y C++**; **Ele
 
 </div>
 
-## Cómo trabajo
+## 🧭 Cómo trabajo
 
-- **Diseño antes que código.** Wireframes, sistema de diseño y estados de interfaz se deciden antes de la primera línea. La UI es parte del producto, no el envase.
-- **Local-first por defecto.** El software debe seguir funcionando sin conexión y sin enviar datos a terceros. La nube es una opción, no un requisito.
-- **Calidad de release.** Versionado semántico, changelogs, artefactos firmados, publicación automatizada en GitHub Releases, npm y Homebrew.
-- **Sostenibilidad antes que features infinitas.** Mejorar lo que existe, medir el coste de cada dependencia y mantener el código legible valen más que añadir otro framework.
+- 🎨 **Diseño antes que código.** Wireframes, sistema de diseño y estados de interfaz se deciden antes de la primera línea. La UI es parte del producto, no el envase.
+- 🔐 **Local-first por defecto.** El software debe seguir funcionando sin conexión y sin enviar datos a terceros. La nube es una opción, no un requisito.
+- 📦 **Calidad de release.** Versionado semántico, changelogs, artefactos firmados, publicación automatizada en GitHub Releases, npm y Homebrew.
+- 🌱 **Sostenibilidad antes que features infinitas.** Mejorar lo que existe, medir el coste de cada dependencia y mantener el código legible valen más que añadir otro framework.
 
-## Fuera del código
+## 🎮 Fuera del código
 
 <table>
   <tr>
@@ -175,7 +188,7 @@ Me muevo cómodo en todo el stack: **TypeScript, Rust, Python, Go y C++**; **Ele
   </tr>
 </table>
 
-## Hablemos
+## 💬 Hablemos
 
 <div align="center">
 
