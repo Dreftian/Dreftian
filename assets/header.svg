@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Dreftian - AI Product Engineer, Full-Stack Engineer, Indie Hacker">
+  <title>Dreftian - AI Product Engineer</title>
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#c084fc"/>
+      <stop offset="45%" stop-color="#a855f7"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+    <linearGradient id="wordmark" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#d8b4fe"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0.38"/>
+      <stop offset="100%" stop-color="#7c3aed" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#ffffff" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+    <filter id="soften" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="14"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="300" fill="#0a0a12"/>
+  <rect width="1200" height="300" fill="url(#grid)"/>
+  <ellipse cx="600" cy="150" rx="520" ry="185" fill="url(#glow)"/>
+
+  <!-- bolt mark -->
+  <g transform="translate(988, 74) scale(1.4)">
+    <path d="M60 0 L20 70 L45 70 L35 140 L90 55 L62 55 L85 0 Z" fill="url(#accent)" opacity="0.45" filter="url(#soften)"/>
+    <path d="M60 0 L20 70 L45 70 L35 140 L90 55 L62 55 L85 0 Z" fill="url(#accent)" opacity="0.92"/>
+  </g>
+
+  <!-- wordmark -->
+  <text x="80" y="150" font-family="Segoe UI, Inter, system-ui, -apple-system, Helvetica, Arial, sans-serif" font-size="76" font-weight="800" letter-spacing="4" fill="url(#wordmark)">DREFTIAN</text>
+
+  <text x="80" y="196" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" font-weight="600" letter-spacing="2.4" fill="#b9a3f7">AI PRODUCT ENGINEER · FULL-STACK ENGINEER · INDIE HACKER · DESIGN ENGINEER</text>
+
+  <rect x="80" y="220" width="132" height="3" rx="1.5" fill="url(#accent)"/>
+
+  <text x="80" y="254" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" letter-spacing="1.2" fill="#6b7280">github.com/Dreftian</text>
+</svg>

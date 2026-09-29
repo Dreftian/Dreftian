@@ -1,0 +1,40 @@
+name: Contribution grid
+
+on:
+  schedule:
+    - cron: "17 * * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest    timeout-minutes: 10
+    steps:
+      - name: Generate contribution grid
+        id: snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg
+            dist/github-contribution-snake.svg
+            dist/github-contribution-snake-dark.svg
+
+      - name: Commit changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: regenerate contribution grid"
+          file_pattern: dist/*.svg
+
+      - name: Move files to dist branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: dist
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
