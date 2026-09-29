@@ -15,6 +15,7 @@
     <a href="https://github.com/Dreftian?tab=repositories"><img src="https://img.shields.io/github/repos/Dreftian?label=Repos&amp;style=flat-square&amp;color=a855f7&amp;logo=github&amp;logoColor=white" alt="Repositories"></a>
     <a href="https://github.com/Dreftian"><img src="https://img.shields.io/github/followers/Dreftian?label=Followers&amp;style=flat-square&amp;color=38bdf8&amp;logo=github&amp;logoColor=white" alt="Followers"></a>
     <img src="https://img.shields.io/github/contributions/Dreftian?label=Contributions&amp;style=flat-square&amp;color=22c55e" alt="Contributions">
+    <a href="https://steamcommunity.com/id/Dreftian/"><img src="https://img.shields.io/badge/Steam-Dreftian-1b2838?style=flat-square&amp;logo=steam&amp;logoColor=white" alt="Steam"></a>
     <img src="https://img.shields.io/badge/Since-2023-f97316?style=flat-square&amp;labelColor=0a0a12" alt="On GitHub since 2023">
   </p>
 
@@ -34,10 +35,14 @@ I'm comfortable across the stack: **TypeScript, Rust, Python, Go and C++**; **El
 
 <table>
   <tr>
-    <td width="25%" align="center"><b>🤖 AI &amp; Agents</b><br /><sub>Local-first coding agents, GGUF inference, MCP, RAG and agentic flow design.</sub></td>
-    <td width="25%" align="center"><b>🖥️ Desktop &amp; CLI</b><br /><sub>Electron, cross-platform packaging, signed installers, auto-update and publishing to Homebrew and npm.</sub></td>
-    <td width="25%" align="center"><b>🌐 Web platforms</b><br /><sub>Full-stack apps, buildless static sites, API integrations and release automation.</sub></td>
-    <td width="25%" align="center"><b>🎨 Design engineering</b><br /><sub>Design systems, motion, typography, performance and accessibility. The interface is part of the product.</sub></td>
+    <td width="33%" align="center" valign="top"><b>🤖 AI &amp; Agents</b><br /><sub>Local-first coding agents, GGUF inference, MCP, RAG and agentic flow design.</sub></td>
+    <td width="33%" align="center" valign="top"><b>🖥️ Desktop &amp; CLI</b><br /><sub>Electron, cross-platform packaging, signed installers, auto-update and publishing to Homebrew and npm.</sub></td>
+    <td width="33%" align="center" valign="top"><b>🌐 Web platforms</b><br /><sub>Full-stack apps, buildless static sites, API integrations and release automation.</sub></td>
+  </tr>
+  <tr>
+    <td width="33%" align="center" valign="top"><b>🎮 Game dev &amp; modding</b><br /><sub>Tooling for the <b>Dota 2</b> modding scene: <b>Mod Assistant</b> manages 1,300+ cosmetic mods, integrates the game's own assets and survives every patch.</sub></td>
+    <td width="33%" align="center" valign="top"><b>🎨 Design engineering</b><br /><sub>Design systems, motion, typography, performance and accessibility. The interface is part of the product.</sub></td>
+    <td width="33%" align="center" valign="top"><b>🔐 Local-first &amp; privacy</b><br /><sub>Software that works offline and without shipping data to third parties. The cloud is an option, never a requirement.</sub></td>
   </tr>
 </table>
 
@@ -53,8 +58,8 @@ I'm comfortable across the stack: **TypeScript, Rust, Python, Go and C++**; **El
     </td>
     <td width="50%" valign="top">
       <h3>🎮 <a href="https://github.com/Dreftian/Dota2-Mods-Releases">Dota2 Mods</a></h3>
-      <p>Mod Assistant for Dota 2 on Windows: a catalog of <b>1,300+ mods</b>, the game's own cosmetics and Arsenal VIP with every immortal and arcana. Signed releases.</p>
-      <p><code>Windows</code> <code>x64</code> <code>Installer</code></p>
+      <p><b>Mod Assistant</b>, the modding tool I build for Dota 2 on Windows: <b>1,300+</b> cosmetic mods, the game's own cosmetics and Arsenal VIP with every immortal and arcana. Entirely client-side, and it never touches anyone else's match.</p>
+      <p><code>Electron</code> <code>Dota 2</code> <code>Assets</code> <code>NSIS</code></p>
       <p>→ <a href="https://github.com/Dreftian/Dota2-Mods-Releases">Repository</a> · <a href="https://dota2-mods.vercel.app">Web</a> · <a href="https://github.com/Dreftian/Dota2-Mods-Releases/releases/latest">Downloads</a></p>
     </td>
   </tr>
@@ -151,6 +156,24 @@ I'm comfortable across the stack: **TypeScript, Rust, Python, Go and C++**; **El
 - **Local-first by default.** Software should keep working offline and without shipping data to third parties. The cloud is an option, not a requirement.
 - **Release quality.** Semantic versioning, changelogs, signed artifacts, automated publishing to GitHub Releases, npm and Homebrew.
 - **Sustainability over endless features.** Improving what exists, measuring the cost of every dependency and keeping the code readable beat adding another framework.
+
+## Off the clock
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎮 Games</h3>
+      <p><b>Dota 2</b> is the usual one, and on the <b>AAA</b> side the ones that demand the tech rise to meet them: <b>Resident Evil</b>, <b>God of War</b>, <b>Devil May Cry</b> and <b>Monster Hunter</b>.</p>
+      <p>That is where a lot of how I write software comes from: <i>game feel</i>, frame pacing, and the idea that the interface is what makes an engine good.</p>
+      <p>→ <a href="https://steamcommunity.com/id/Dreftian/">Steam · Dreftian</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌎 Lima, Peru</h3>
+      <p>28, working remotely. Projects ship with documentation in Spanish and English, because software shouldn't depend on who reads it.</p>
+      <p>When something breaks, the first thing I do is write the problem down in a README. If I can't explain it, I don't understand it yet.</p>
+    </td>
+  </tr>
+</table>
 
 ## Let's talk
 

@@ -15,6 +15,7 @@
     <a href="https://github.com/Dreftian?tab=repositories"><img src="https://img.shields.io/github/repos/Dreftian?label=Repos&amp;style=flat-square&amp;color=a855f7&amp;logo=github&amp;logoColor=white" alt="Repositorios"></a>
     <a href="https://github.com/Dreftian"><img src="https://img.shields.io/github/followers/Dreftian?label=Followers&amp;style=flat-square&amp;color=38bdf8&amp;logo=github&amp;logoColor=white" alt="Seguidores"></a>
     <img src="https://img.shields.io/github/contributions/Dreftian?label=Contribuciones&amp;style=flat-square&amp;color=22c55e" alt="Contribuciones">
+    <a href="https://steamcommunity.com/id/Dreftian/"><img src="https://img.shields.io/badge/Steam-Dreftian-1b2838?style=flat-square&amp;logo=steam&amp;logoColor=white" alt="Steam"></a>
     <img src="https://img.shields.io/badge/Desde-2023-f97316?style=flat-square&amp;labelColor=0a0a12" alt="En GitHub desde 2023">
   </p>
 
@@ -34,10 +35,14 @@ Me muevo cómodo en todo el stack: **TypeScript, Rust, Python, Go y C++**; **Ele
 
 <table>
   <tr>
-    <td width="25%" align="center"><b>🤖 IA &amp; Agentes</b><br /><sub>Agentes de codificación local-first, inferencia GGUF, MCP, RAG y diseño de flujos agénticos.</sub></td>
-    <td width="25%" align="center"><b>🖥️ Desktop &amp; CLI</b><br /><sub>Electron, empaquetado multiplataforma, instaladores firmados, auto-actualización y publicación en Homebrew y npm.</sub></td>
-    <td width="25%" align="center"><b>🌐 Plataformas web</b><br /><sub>Aplicaciones full-stack, sitios estáticos sin build, integraciones con APIs y automatizaciones de releases.</sub></td>
-    <td width="25%" align="center"><b>🎨 Design engineering</b><br /><sub>Sistemas de diseño, motion, tipografía, performance y accesibilidad. La interfaz es parte del producto.</sub></td>
+    <td width="33%" align="center" valign="top"><b>🤖 IA &amp; Agentes</b><br /><sub>Agentes de codificación local-first, inferencia GGUF, MCP, RAG y diseño de flujos agénticos.</sub></td>
+    <td width="33%" align="center" valign="top"><b>🖥️ Desktop &amp; CLI</b><br /><sub>Electron, empaquetado multiplataforma, instaladores firmados, auto-actualización y publicación en Homebrew y npm.</sub></td>
+    <td width="33%" align="center" valign="top"><b>🌐 Plataformas web</b><br /><sub>Aplicaciones full-stack, sitios estáticos sin build, integraciones con APIs y automatizaciones de releases.</sub></td>
+  </tr>
+  <tr>
+    <td width="33%" align="center" valign="top"><b>🎮 Game dev &amp; modding</b><br /><sub>Herramientas para el ecosistema de modding de <b>Dota 2</b>: <b>Mod Assistant</b> gestiona más de 1.300 mods cosméticos, integra los assets del juego y sobrevive a cada parche.</sub></td>
+    <td width="33%" align="center" valign="top"><b>🎨 Design engineering</b><br /><sub>Sistemas de diseño, motion, tipografía, performance y accesibilidad. La interfaz es parte del producto.</sub></td>
+    <td width="33%" align="center" valign="top"><b>🔐 Local-first &amp; privacidad</b><br /><sub>Software que funciona sin conexión y sin enviar datos a terceros. La nube es una opción, nunca un requisito.</sub></td>
   </tr>
 </table>
 
@@ -53,8 +58,8 @@ Me muevo cómodo en todo el stack: **TypeScript, Rust, Python, Go y C++**; **Ele
     </td>
     <td width="50%" valign="top">
       <h3>🎮 <a href="https://github.com/Dreftian/Dota2-Mods-Releases">Dota2 Mods</a></h3>
-      <p>Mod Assistant para Dota 2 en Windows: catálogo de más de <b>1.300 mods</b>, cosméticos del propio juego y Arsenal VIP con todos los inmortales y arcanas. Releases firmados.</p>
-      <p><code>Windows</code> <code>x64</code> <code>Installer</code></p>
+      <p><b>Mod Assistant</b>, la herramienta de modding que construyo para Dota 2 en Windows: más de <b>1.300 mods</b> cosméticos, los cosméticos del propio juego y Arsenal VIP con cada inmortal y arcana. Todo del lado del cliente y sin tocar la partida de nadie.</p>
+      <p><code>Electron</code> <code>Dota 2</code> <code>Assets</code> <code>NSIS</code></p>
       <p>→ <a href="https://github.com/Dreftian/Dota2-Mods-Releases">Repositorio</a> · <a href="https://dota2-mods.vercel.app">Web</a> · <a href="https://github.com/Dreftian/Dota2-Mods-Releases/releases/latest">Descargas</a></p>
     </td>
   </tr>
@@ -151,6 +156,24 @@ Me muevo cómodo en todo el stack: **TypeScript, Rust, Python, Go y C++**; **Ele
 - **Local-first por defecto.** El software debe seguir funcionando sin conexión y sin enviar datos a terceros. La nube es una opción, no un requisito.
 - **Calidad de release.** Versionado semántico, changelogs, artefactos firmados, publicación automatizada en GitHub Releases, npm y Homebrew.
 - **Sostenibilidad antes que features infinitas.** Mejorar lo que existe, medir el coste de cada dependencia y mantener el código legible valen más que añadir otro framework.
+
+## Fuera del código
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎮 Los juegos</h3>
+      <p><b>Dota 2</b> es el de siempre, y del lado <b>AAA</b> los que exigen que la tecnología esté a la altura: <b>Resident Evil</b>, <b>God of War</b>, <b>Devil May Cry</b> y <b>Monster Hunter</b>.</p>
+      <p>De ahí sale bastante de cómo escribo software: <i>game feel</i>, frame pacing, y la idea de que la interfaz es lo que hace bueno a un motor.</p>
+      <p>→ <a href="https://steamcommunity.com/id/Dreftian/">Steam · Dreftian</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌎 Lima, Perú</h3>
+      <p>28 años, trabajando en remoto. Los proyectos se publican con documentación en español e inglés, porque el software no debería depender de quién lo lea.</p>
+      <p>Cuando algo se atora, lo primero que hago es escribir el problema en un README. Si no lo puedo explicar, todavía no lo entiendo.</p>
+    </td>
+  </tr>
+</table>
 
 ## Hablemos
 
