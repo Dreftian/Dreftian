@@ -45,23 +45,40 @@ Me muevo cómodo en todo el stack: **TypeScript, Rust, Python, Go y C++**; **Ele
 
 <table>
   <tr>
-    <td width="50%"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Dreftian&amp;repo=Tiancode&amp;theme=radical" alt="Tiancode" width="100%"></td>
-    <td width="50%"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Dreftian&amp;repo=Dota2-Mods-Releases&amp;theme=radical" alt="Dota2 Mods" width="100%"></td>
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://github.com/Dreftian/Tiancode">Tiancode</a></h3>
+      <p>Inteligencia agéntica <b>local-first</b>. App de escritorio para Windows y CLI para Windows, macOS y Linux: modelos GGUF locales o el proveedor que elijas, catorce especialistas, vista previa en vivo, voz y MCP.</p>
+      <p><code>TypeScript</code> <code>Electron</code> <code>SolidJS</code> <code>Bun</code> <code>llama.cpp</code></p>
+      <p>→ <a href="https://github.com/Dreftian/Tiancode">Repositorio</a> · <a href="https://tiancode.vercel.app">Web</a> · <a href="https://github.com/Dreftian/Tiancode/releases/latest">Última versión</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎮 <a href="https://github.com/Dreftian/Dota2-Mods-Releases">Dota2 Mods</a></h3>
+      <p>Mod Assistant para Dota 2 en Windows: catálogo de más de <b>1.300 mods</b>, cosméticos del propio juego y Arsenal VIP con todos los inmortales y arcanas. Releases firmados.</p>
+      <p><code>Windows</code> <code>x64</code> <code>Installer</code></p>
+      <p>→ <a href="https://github.com/Dreftian/Dota2-Mods-Releases">Repositorio</a> · <a href="https://dota2-mods.vercel.app">Web</a> · <a href="https://github.com/Dreftian/Dota2-Mods-Releases/releases/latest">Descargas</a></p>
+    </td>
   </tr>
   <tr>
-    <td width="50%"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Dreftian&amp;repo=youtube-4k-web&amp;theme=radical" alt="YouTube 4K Web" width="100%"></td>
-    <td width="50%"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Dreftian&amp;repo=DreftTools&amp;theme=radical" alt="DreftTools" width="100%"></td>
+    <td width="50%" valign="top">
+      <h3>🎬 <a href="https://dreftian.github.io/youtube-4k-web/">YouTube 4K</a></h3>
+      <p>Descargador de escritorio en 4K/8K y HDR con audio de alta fidelidad y descarga multi-conexión. Su sitio de distribución es estático y sin build: la versión se lee en vivo de la API de GitHub.</p>
+      <p><code>Rust</code> <code>Tauri</code> <code>React</code> <code>yt-dlp</code> <code>ffmpeg</code></p>
+      <p>→ <a href="https://dreftian.github.io/youtube-4k-web/">Sitio</a> · <a href="https://github.com/Dreftian/youtube-4k-releases">Instaladores</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧰 <a href="https://github.com/Dreftian/DreftTools">DreftTools</a></h3>
+      <p>Plataforma de instalación y gestión de plugins de Steam (Steamtools, Millennium) con estética premium: un comando de PowerShell, descarga de scripts y acceso a la documentación.</p>
+      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>PowerShell</code></p>
+      <p>→ <a href="https://github.com/Dreftian/DreftTools">Repositorio</a> · <a href="https://dreftools.vercel.app">Web</a></p>
+    </td>
   </tr>
 </table>
 
-| Proyecto | Qué es |
+| También | Qué es |
 | --- | --- |
-| **[Tiancode](https://github.com/Dreftian/Tiancode)** · [Web](https://tiancode.vercel.app) | Inteligencia agéntica local-first. App de escritorio para Windows y CLI para Windows, macOS y Linux. Modelos GGUF locales o el proveedor que elijas, 14 especialistas, vista previa en vivo, voz, MCP y Homebrew. |
-| **[Dota2-Mods-Releases](https://github.com/Dreftian/Dota2-Mods-Releases)** · [Web](https://dota2-mods.vercel.app) | Mod Assistant para Dota 2 en Windows: catálogo de más de 1.300 mods, cosméticos del propio juego y Arsenal VIP. Releases firmados. |
-| **[youtube-4k-web](https://github.com/Dreftian/youtube-4k-web)** | Sitio de distribución de YouTube 4K. Estático y sin build: la versión y las descargas se leen de la API de GitHub. |
-| **[DreftTools](https://github.com/Dreftian/DreftTools)** · [Web](https://dreftools.vercel.app) | Plataforma de instalación de plugins de Steam con estética premium: un comando de PowerShell y listo. |
 | **[DHtraduct](https://github.com/Dreftian/DHtraduct-releases)** | Traducción audiovisual con IA para donghuas y animes, con transcripción local. Releases firmados. |
-| **[youtube-4k](https://github.com/Dreftian/youtube-4k-releases)** | Descargador de escritorio para YouTube en 4K/8K y HDR, con audio de alta fidelidad y descarga multi-conexión. |
+| **[youtube-4k-releases](https://github.com/Dreftian/youtube-4k-releases)** | Canal de releases firmados para Windows, Linux y macOS. |
+| **[youtube-4k-web](https://github.com/Dreftian/youtube-4k-web)** | El sitio de distribución, estático y sin build. |
 
 ## Stack
 
@@ -114,22 +131,17 @@ Me muevo cómodo en todo el stack: **TypeScript, Rust, Python, Go y C++**; **Ele
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Dreftian&amp;show_icons=true&amp;theme=radical&amp;rank_icon=github&amp;include_all_commits=true&amp;count_private=true" alt="GitHub Stats" height="185">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=Dreftian&amp;theme=radical&amp;hide_border=true" alt="GitHub Streak" height="185">
+  <img src="assets/stats.svg" alt="Estadísticas del perfil de Dreftian" width="100%">
 
   <br />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dreftian&amp;layout=compact&amp;theme=radical&amp;langs_count=8" alt="Top Languages" height="150">
-
-</div>
-
-<div align="center">
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dreftian/Dreftian/dist/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dreftian/Dreftian/dist/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/Dreftian/Dreftian/dist/github-contribution-grid-snake.svg" alt="Dreftian contribution graph" width="100%">
+    <img src="https://raw.githubusercontent.com/Dreftian/Dreftian/dist/github-contribution-grid-snake.svg" alt="Dreftian contribution graph" width="82%">
   </picture>
+
+  <sub>Panel generado desde la API de GitHub por <a href="scripts/generate-stats.py">scripts/generate-stats.py</a> ·Contribution graph por Platane/snk</sub>
 
 </div>
 
